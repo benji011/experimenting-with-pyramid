@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "experimenting-with-pyramid"
+version = "0.1.0"
+description = "Just a repo that'll house me experimenting with another Python framework, Pyramid. Doesn't really contain anything of practical use."
+authors = ["benji011 <benjaminlouk011@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
